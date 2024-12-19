@@ -1,8 +1,6 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import sklearn
-import sklearn.datasets
 import numpy as np
 
 df = pd.read_csv('../Exploratory Data Analysis/Iris.csv')

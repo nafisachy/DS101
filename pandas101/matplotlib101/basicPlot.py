@@ -14,7 +14,7 @@ y = [20, 25, 35, 55]
 #
 #
 # # bar chart
-data = pd.read_csv('tips.csv')
+# data = pd.read_csv('tips.csv')
 # x = data['day']
 # y = data['total_bill']
 #
